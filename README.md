@@ -48,6 +48,8 @@ The CI/CD pipeline is configured to run automatically upon each push to the repo
 
 ![PIPELINE](https://github.com/user-attachments/assets/d25d78e8-bc58-4753-b791-96d3c49b488e)
 ![SONAR](https://github.com/user-attachments/assets/e06df394-28fe-4828-ac66-d6fba817fc59)
+![image](https://github.com/user-attachments/assets/ee893dad-e641-416d-b562-33c2f396c304)
+
 
 
 
