@@ -43,8 +43,11 @@ The CI/CD pipeline is configured to run automatically upon each push to the repo
 - Code Quality and Security Check: SonarQube scans for code vulnerabilities.
 - Deployment: Automatic deployment to a staging/production server if all checks pass.
 
-## YouTube Link
+## Screenshots
 
+
+![PIPELINE](https://github.com/user-attachments/assets/d25d78e8-bc58-4753-b791-96d3c49b488e)
+![SONAR](https://github.com/user-attachments/assets/e06df394-28fe-4828-ac66-d6fba817fc59)
 
 
 
